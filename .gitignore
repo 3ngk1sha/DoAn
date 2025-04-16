@@ -6,3 +6,5 @@ node_modules/
 /docker/**/db_data
 .idea/
 docker/
+.husky/
+.vscode/
